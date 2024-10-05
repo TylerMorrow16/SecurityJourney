@@ -33,7 +33,7 @@ nav ul li a {
     background-color: #2b2b2b;
 }
 
-#welcome h1 {
+#welcome h1, #about h2 {
     font-size: 3rem;
 }
 
