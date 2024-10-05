@@ -27,7 +27,7 @@ nav ul li a {
     font-weight: bold;
 }
 
-#welcome {
+#welcome, #aboutme {
     text-align: center;
     padding: 100px 20px;
     background-color: #2b2b2b;
